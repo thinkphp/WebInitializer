@@ -1,5 +1,5 @@
 # WebInitializer
-WebInitializer is a Python script that quickly sets up a basic web project structure. It creates a new folder and generates starter HTML, CSS, and JavaScript files within it.
+WebInitializer is a Python3.8 script that quickly sets up a basic web project structure. It creates a new folder and generates starter HTML, CSS, and JavaScript files within it.
 
 [web initializer](https://private-user-images.githubusercontent.com/98550/371869216-f60a9951-5c5b-45bb-8d9d-397442911185.webm)
 
